@@ -1,3 +1,7 @@
+@import "./variables.scss";
+@import "./index.scss";
+@import "./normalize.scss";
+// 这个是写的公共的文件
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
